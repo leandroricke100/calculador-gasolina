@@ -9,9 +9,10 @@ body{
     background-color: #22272e;
     height: 100vh;
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
     align-items: center;
     flex-direction: column;
+    margin-top: 20px;
 }
 
 .container{
